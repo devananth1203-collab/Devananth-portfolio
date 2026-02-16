@@ -1,0 +1,69 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Navbar */
+.navbar {
+    background: #0b1c39;
+}
+
+.navbar-brand {
+    font-weight: 600;
+}
+
+/* Hero Section */
+.hero {
+    background: #0b1c39;
+    color: white;
+    padding: 100px 0;
+}
+
+.hero h1 {
+    font-weight: 700;
+}
+
+.hero p {
+    color: #cfd8ff;
+}
+
+/* Section */
+.section-title {
+    font-weight: 600;
+    margin-bottom: 40px;
+}
+
+/* Cards */
+.custom-card {
+    border: none;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+.custom-card:hover {
+    transform: translateY(-5px);
+}
+
+/* Skills */
+.skill-box {
+    background: #7a8295;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    font-weight: 500;
+}
+
+/* Profile Image */
+.profile-img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border: 4px solid #fff;
+}
+
+/* Footer */
+footer {
+    background: #0b1c39;
+    color: white;
+    padding: 20px;
+}
