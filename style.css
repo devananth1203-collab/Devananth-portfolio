@@ -46,7 +46,8 @@ body {
 
 /* Skills */
 .skill-box {
-    background: #7a8295;
+    background: #0b1c39;
+    color: white;
     padding: 20px;
     border-radius: 8px;
     text-align: center;
@@ -66,4 +67,8 @@ footer {
     background: #0b1c39;
     color: white;
     padding: 20px;
+}
+h5{
+    font-weight: 600;
+    color: #0b1c39;
 }
